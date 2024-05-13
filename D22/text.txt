@@ -1,0 +1,20 @@
+Create a component for :
+screen 
+
+player 1 bar and make it move
+width = 20
+height = 100
+x_pos = 350
+y pos = 0
+
+player 2 bar and make it move
+
+the ball and make it move
+
+detect collision with wall and bounce
+
+detect collision with bar
+
+detect collision with goal
+
+the score
